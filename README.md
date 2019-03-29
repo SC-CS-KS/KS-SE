@@ -28,3 +28,6 @@
 ## [High Availability Architectures](https://github.com/SunnnyChan/knowledge-Sys-of-HA)
 
 ## [Architecture Design Parctice](parctice/README.md)
+
+## References
+* [Book Reading Note](https://github.com/SunnnyChan/sc.ebooks/tree/master/arch)
