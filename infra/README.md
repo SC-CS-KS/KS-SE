@@ -2,8 +2,8 @@
 
 ![](pic/infrastructure.jpg)
 
-## [Cache (缓存)](objects/cache/README.md)
-## [Message Queue (消息队列)](objects/mq/README.md)
+## [Cache (缓存)](https://github.com/SunnnyChan/knowledge-Sys-of-HA/tree/master/cache)
+## [Message Queue (消息队列)](https://github.com/SunnnyChan/knowledge-Sys-of-MQ)
 ## [Gateway 统一请求入口-API网关]
 * [Load Balancer (负载均衡)](objects/load-balancer/README.md)
 * API 访问权限控制
