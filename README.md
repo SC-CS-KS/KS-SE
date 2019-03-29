@@ -11,7 +11,7 @@
 
 * [Microkernel Architecture](arch-microkernel.md)
 
-## [HA](https://github.com/SunnnyChan/knowledge-Sys-of-HA)
+## [High Availability Architectures](https://github.com/SunnnyChan/knowledge-Sys-of-HA)
 
 ## Framework
 * [基于Spring+SpringMVC+Mybatis分布式敏捷开发系统架构](https://github.com/shuzheng/zheng)
