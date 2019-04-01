@@ -30,4 +30,5 @@
 ## [Architecture Design Parctice](parctice/README.md)
 
 ## References
+* [互联网公司架构演进之路汇总](https://www.jianshu.com/p/49ddf2f5c165)
 * [Book Reading Note](https://github.com/SunnnyChan/sc.ebooks/tree/master/arch)
