@@ -9,7 +9,7 @@
 * API 访问权限控制
 * 用户鉴权
 
-## [Service Goverance (服务治理)](objects/service-governance/README.md)
+## [Service Governance (服务治理)](objects/service-governance/README.md)
 
 ## 业务基础服务
 * [Config 统一配置中心](biz-infra/configure/README.md)
