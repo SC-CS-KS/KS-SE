@@ -1,17 +1,20 @@
 # 缓存
 ```md
-	将数据写入速度更快的存储设备中，或者读出
-	将数据缓存到里应用最近的位置
-	将数据缓存到离用户最近的位置
+将数据写入速度更快的存储设备中，或者读出。
+将数据缓存到里应用最近的位置。
+将数据缓存到离用户最近的位置。
 ```
 
 ## [What Is?](WhatIs.md)
 
 ## Design
 
+* [缓存更新](design/Update.md)
+
+* [缓存失效（Evict Policy）](design/EvictPolicy.md)
+
 * [Multi-Level Cache](Multi-Level/README.md)
 * 内存数据网格(In Memory Data Grid，IMDG)
-* [Evict Policy](desgin/EvictPolicy.md)
 
 ## Utility
 * CDN 缓存
@@ -32,14 +35,7 @@
 ## [Cache HA](HA/README.md)
 
 ## Develop
-* 缓存更新
-```md
-	两种策略
-		先删除缓存，再更新数据库
-		先更新数据库，再删除缓存(推荐)
-```
-* 运维
-> * 迁移
+* 迁移
 ```md
 		平滑迁移
 			第1步，双写

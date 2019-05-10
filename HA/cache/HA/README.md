@@ -52,4 +52,7 @@
 热点缓存自动加载为JVM本地缓存
 限流熔断保护  
 ```
-[如果20万用户同时访问一个热点缓存](https://juejin.im/post/5c448670e51d455bd36b67f9)
+* [如果20万用户同时访问一个热点缓存](https://juejin.im/post/5c448670e51d455bd36b67f9)
+
+## Reference
+* [Scaling Memcache at Facebook](https://blog.csdn.net/zjsyhjh/article/details/45151897)
