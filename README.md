@@ -4,12 +4,13 @@
 * [Distributed](https://github.com/SunnnyChan/knowledge-Sys-Of-Distributed)
 * [Micro-Service](https://github.com/SunnnyChan/knowledge-Sys-of-MicroService)
 
-* [Serverless](0_arch-style/serverless/README.md)
-
+## Architecture Pattern
+* [Layered 分层模式]()
 * [Event Driven (事件驱动架构，EDA)](0_arch-style/arch-event-driven/README.md)
-* [Decentralized](0_arch-style/decentralized/README.md)
-
 * [Micro-Kernel](0_arch-style/arch-microkernel.md)
+
+* [Decentralized](0_arch-style/decentralized/README.md)
+* [Serverless](0_arch-style/serverless/README.md)
 
 ## [Infrastructure](infra/README.md)
 * [Cache](https://github.com/SunnnyChan/knowledge-Sys-of-HA/tree/master/cache)
