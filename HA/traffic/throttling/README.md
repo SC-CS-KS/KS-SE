@@ -52,5 +52,6 @@
 
 ## Implement
 * [Nginx 限流](https://github.com/SunnnyChan/knowledge-Sys-of-web/blob/master/nginx/utilities/Throttling.md)
-* Guava RateLimiter
+* [Guava RateLimiter](https://github.com/SunnnyChan/sc.drill-code/blob/master/java/java-lib/Guava/RateLimiter.md)
 * 阿里开源的 Sentinel
+* [Redis+Lua - 分布式应用限流](https://www.toutiao.com/i6684055284526088717/)
