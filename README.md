@@ -28,12 +28,10 @@
 * [Log 统一日志服务](infra/biz-infra/log/README.md)
 * [Retrieval 统一检索平台](infra/retrieval/README.md)
 
-## [Cloud](1_cloud/README.md)
 ## [Multi-Data Center](1_Multi-DataCenter/README.md)
-## [Block-Chain](1_bolckchain/README.md)
-## [High Availability Architectures](HA/README.md)
+## [High Availability Architectures](s_HA/README.md)
 
-## [Architecture Design Practice](practice/README.md)
+## [Architecture Design Practice](z_practice/README.md)
 
 ## References
 * [互联网公司架构演进之路汇总](https://www.jianshu.com/p/49ddf2f5c165)
