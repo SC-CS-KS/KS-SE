@@ -2,10 +2,9 @@
 
 ![](KS-Infra/_pic/infrastructure.jpg)
 
-* [Service Governance (服务治理)](service-governance/README.md)
+* [Service Governance (服务治理)](KS-ServiceGovernance/README.md)
 * [Cache (缓存)](KS-Cache/README.md)
 * [Message Queue (消息队列)](https://github.com/SunnnyChan/knowledge-Sys-of-MQ)
-* [Load Balancer (负载均衡)](load-balancer/README.md)
 
 ## 
 * [Gateway 统一请求入口-API网关]

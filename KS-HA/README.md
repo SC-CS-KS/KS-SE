@@ -7,14 +7,21 @@
 * 限流
 * 削峰
 * 整型
-## [服务](service/README.md)
+### [服务](service/README.md)
 * 服务隔离
 * 服务降级
 * 服务熔断
 
+### 故障转移（failover）
+* [负载平衡（Load balancing）](LoadBalancing/README.md)
+* 灾难恢复（Disaster recovery，也称灾备）
+* 虚拟化 - 一种资源管理技术
+```md
+一般所指的虚拟化资源包括计算能力和数据存储。
+```
 ### [监控](monitor/README.md)
 
-## [Framework](framework/README.md)
+## [Implement](framework/README.md)
 * Hystrix
 * Sentinel
 
