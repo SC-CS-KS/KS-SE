@@ -1,11 +1,24 @@
-# What Is Mico-Service
+# What Is MicroServices ?
 ```md
 微服务不单单是一种技术架构，也涉及到了管理、组织架构。
 在微服务的架构下，一个服务应该是由一个团队全权负责的。
 ```
+## 特征
+```md
+1. 通过服务实现组件化
+2. 按业务能力来划分服务和开发团队
+3. 去中心化
+4. 基础设施自动化(DevOPs、自动化部署)
+```
 
 ## Compare
-* vs. SOA vs. Distrubted
+* 微服务与SOA
+```md
+	微服务是SOA的一种实现
+	微服务是去ESB的SOA
+	背后实际上是两种思想的分歧：服务的治理分布还是集中
+```
+* vs. SOA vs. Distributed
 ```md
 微服务是架构设计方式，分布式是系统部署方式。
 
