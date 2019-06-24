@@ -4,6 +4,7 @@
 
 ## Architecture Style
 * [Distributed](KS-Distributed/README.md)
+* [SOA](KS-SOA/README.md)
 * [Micro-Service](KS-MicroService/README.md)
 * [Decentralized](0_arch-style/decentralized/README.md)
 * [Serverless](0_arch-style/serverless/README.md)
