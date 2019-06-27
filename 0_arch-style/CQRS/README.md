@@ -1,7 +1,6 @@
 # CQRS (Command and Query Responsibility Segregation)
 
-
-
+# [WhatIs](WhatIs.md)
 
 ## Reference
 * [CQRS很难吗？](https://blog.csdn.net/rocketluoqq/article/details/81434871)
