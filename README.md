@@ -14,6 +14,8 @@
 * [CQRS](0_arch-style/CQRS/README.md)
 * [Micro-Kernel](0_arch-style/microkernel/README.md)
 
+* [中台](KS-Arch-MiddleGround/README.md)
+
 ## [Infrastructure](infra/README.md)
 * [Cache](https://github.com/SunnnyChan/knowledge-Sys-of-HA/tree/master/cache)
 * [MQ](infra/objects/MQ/README.md)
