@@ -14,7 +14,8 @@
 * [Decentralized](0_arch-style/decentralized/README.md)
 * [Serverless](0_arch-style/serverless/README.md)
 
-* [Layered 分层模式](0_arch-style/Layered/README.md)
+* [CS](CS/README.md)
+* [Multitier](0_arch-style/Multitier/README.md)
 * [Event Driven (事件驱动架构，EDA)](0_arch-style/arch-event-driven/README.md)
 * [CQRS](0_arch-style/CQRS/README.md)
 * [Micro-Kernel](0_arch-style/microkernel/README.md)
