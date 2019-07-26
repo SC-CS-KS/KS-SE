@@ -53,3 +53,4 @@ Transaction（交易）是流水（Journal）的聚合根，因为流水是因�
 * [Cola](Cola/README.md)
 
 ## Reference
+* [复杂性应对之道 - 领域建模](https://www.edjdhbb.com/2019/02/23/%E5%A4%8D%E6%9D%82%E6%80%A7%E5%BA%94%E5%AF%B9%E4%B9%8B%E9%81%93-%E9%A2%86%E5%9F%9F%E5%BB%BA%E6%A8%A1/)
