@@ -3,6 +3,7 @@
 ## [What Is HA](What.md)
 
 ## 策略
+![](_pic/HA-Strategy.jpeg)
 ### [流量](traffic/README.md)
 * 限流
 * 削峰

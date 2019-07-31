@@ -14,4 +14,7 @@
 * 领域层(Domain)
 * 数据源层(Data Source)
 
+## 实践
+* [基于 Alibaba开发规约-应用分层 的优化分层模型](practice/Alibaba.md)
+
 ## Reference
