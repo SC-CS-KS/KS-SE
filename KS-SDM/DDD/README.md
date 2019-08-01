@@ -1,12 +1,14 @@
-# DDD 
+# DDD
 
 ## [WhatIs](WhatIs.md)
 
 ## [DDD](DDD/README.md)
 
+## [DDD 建模](DDD-Modeling/README.md)
+
 ## DDD Framework
 ### [DDD 的架构风格](DDD-arch-style.md)
-### 实现
+### 框架实现
 * [Cola](Cola/README.md)
 
 * [DDDLib](DDDLib/README.md)
@@ -16,7 +18,8 @@
 ```md
 DDD-CqRS示例v2.0项目，可帮助您使用Spring，JPA和测试开始高级域建模。
 ```
-## [DDD 建模](DDD-Modeling/README.md)
+## 实践
+* [美团-抽奖-工程实现](DDD-IMP/MT-Project-IMP.md)
 
 ## Reference
 * [什么是领域驱动设计？DDD？](https://www.toutiao.com/i6702660118804169229/)
