@@ -9,10 +9,10 @@
 ## DDD Framework
 ### [DDD 的架构风格](DDD-arch-style.md)
 ### 框架实现
-* [Cola](Cola/README.md)
+* [Cola](DDD-FW/Cola/README.md)
 
-* [DDDLib](DDDLib/README.md)
-* [DDD Strategic Design with Spring Boot](https://github.com/mploed/ddd-strategic-design-spring-boot)
+* [DDDLib](DDD-FW/DDDLib/README.md)
+* [dddsample-core](https://github.com/citerus/dddsample-core)
 
 * [ddd-leaven-v2](https://github.com/BottegaIT/ddd-leaven-v2)
 ```md
