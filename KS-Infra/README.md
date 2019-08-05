@@ -1,6 +1,6 @@
 # 架构基础设施
 
-![](KS-Infra/_pic/infrastructure.jpg)
+![](_pic/infrastructure.jpg)
 
 * [Service Governance (服务治理)](KS-ServiceGovernance/README.md)
 * [Cache (缓存)](KS-Cache/README.md)
