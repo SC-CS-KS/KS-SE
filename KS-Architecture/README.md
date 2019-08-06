@@ -22,21 +22,6 @@
 
 * [中台](KS-Arch-MiddleGround/README.md)
 
-## [Infrastructure](infra/README.md)
-* [Cache](https://github.com/SunnnyChan/knowledge-Sys-of-HA/tree/master/cache)
-* [MQ](infra/objects/MQ/README.md)
-* [Load Balancer](infra/load-balancer/README.md)
-
-* [Service Governance](infra/service-governance/README.md)
-
-* [ID Generator](infra/biz-infra/id-generator/README.md)
-
-* [Configure 统一配置中心](infra/biz-infra/configure/README.md)
-* [Scheduling 统一调度中心](infra/biz-infra/scheduling/README.md)
-* [Log 统一日志服务](infra/biz-infra/log/README.md)
-* [Retrieval 统一检索平台](infra/retrieval/README.md)
-
-## [Multi-Data Center](1_Multi-DataCenter/README.md)
 ## [High Availability Architectures](s_HA/README.md)
 
 ## [Architecture Design Practice](z_practice/README.md)
