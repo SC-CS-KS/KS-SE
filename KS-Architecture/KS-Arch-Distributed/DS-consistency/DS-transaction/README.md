@@ -52,3 +52,7 @@
 ### 其他
 * [事务补偿机制]()
 
+## Reference
+* [seata - 易于使用，高性能，基于 Java 的开源分布式事务解决方案](https://github.com/seata/seata)
+
+
