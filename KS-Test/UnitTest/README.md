@@ -1,6 +1,6 @@
 # Unit Test
 
-* [Property-Based 测试](Property-based/README.md)
+* [Property-Based 测试](PropertyBased/README.md)
 
 ## UT Framework
 ### Java 
