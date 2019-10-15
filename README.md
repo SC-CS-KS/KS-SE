@@ -1,7 +1,7 @@
 # 软件工程 （Software Engineering）
 [![License](https://img.shields.io/badge/license-Apache%202-4EB1BA.svg)](https://www.apache.org/licenses/LICENSE-2.0.html)
 
-SE
+Tables of Content
 =================
 
    * [<a href="PM/README.md">项目管理</a>](#项目管理)
@@ -12,4 +12,5 @@ SE
       * [DevOPs](#devops)
       * [SRE (Site Reliability Engineering)](#sre-site-reliability-engineering)
    * [<a href="RDE/README.md">研发效能</a>](#研发效能)
+   * [<a href="R&amp;D-Specification/README.md">研发规范</a>](#研发规范)
 
