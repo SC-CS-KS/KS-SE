@@ -1,9 +1,6 @@
 # 研发效能 （R&D Efficiency）
 
 
-
-
-
 ## Reference
 ### [技术绩效考量](https://www.infoq.cn/article/measuring-tech-performance-wrong)
 #### 好的衡量指标的规则
