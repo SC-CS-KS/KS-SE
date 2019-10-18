@@ -2,15 +2,16 @@
 
 ## [What Is Ansible](WhatIs.md)
 
-## Host - 定义部署的机器，可以根据用途去划分机器
+## Playbook 模式(剧本模式)
+### Host - 定义部署的机器，可以根据用途去划分机器
 ```yaml
 [data_switch_service]
 127.0.0.1
 ```
 
-## Vars - 定义变量
+### Vars - 定义变量
 
-## Task - 任务
+### Task - 任务
 ```md
 根据 Ansible 提供的语意定义一些基础的动作,可以嵌套其他的task。
 最关键的是Ansible定义了一些任务执行过程中的判断入口，由用户来实现，
@@ -21,7 +22,7 @@
       include: "construct_application_dir.yml"
 ```
 
-## Role - 角色
+### Role - 角色
 ```md
 是所需的 tasks, handler, variables 组成，能够根据固定的目录层次自动加载涉及的variables、定义的task。
 Ansible引入的Role的概念，按照统一的规则下可以进行role的组装，同时能够共享一些Task。
@@ -41,7 +42,7 @@ Ansible引入的Role的概念，按照统一的规则下可以进行role的组�
 └── vars
     └── main.yml
 ```
-## PlayBook - 剧本
+### PlayBook - 剧本
 ```md
 定义了各个角色在这个剧本中需要做什么以及具体做的顺序。
 Ansible 的强大之处在于playbooks，使用 yaml语法，尽量使得对这个流程的描述不再通过脚本的串联去实现，而是通过关系配置化的方式进行。
@@ -57,5 +58,12 @@ Ansible 的强大之处在于playbooks，使用 yaml语法，尽量使得对这�
      - role: autoumars.springboot-role
 ```
 
+## 安装
+```bash
+python3 -m pip install --upgrade pip
+pip3 install --upgrade setuptools==30.1.0
+pip3 install paramiko PyYAML Jinja2 httplib2 six
+pip3 install ansible
+```
 
 
