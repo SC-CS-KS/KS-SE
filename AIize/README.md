@@ -1,4 +1,4 @@
-# Intelligent Software Engineering
+# Intelligent Software Engineering（智能化）
 
 ## 用AI解决的软件工程问题
 
@@ -22,8 +22,6 @@ RNN with Attention Classification
 代码补全
 代码的特征
 
-
-
 ### 软件测试自动化
 
 Reinforcement Learning CNN
@@ -35,6 +33,3 @@ Reinforcement Learning CNN
 Feature Engineering Data Mining  
 
 * 日志数据
-
-
-
