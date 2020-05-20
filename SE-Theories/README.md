@@ -7,5 +7,3 @@
 ### [SLA - 服务等级协议（Service Level Agreements）](Quality/SLA.md)
 
 
-### [软件复杂性](Complexity.md)
-
